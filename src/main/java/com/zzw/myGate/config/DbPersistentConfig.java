@@ -1,4 +1,4 @@
-package com.example.demo.config;
+package com.zzw.myGate.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.jdbc.core.JdbcTemplate;

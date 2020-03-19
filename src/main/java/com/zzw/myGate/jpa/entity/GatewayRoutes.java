@@ -1,4 +1,4 @@
-package com.example.demo.jpa.entity;
+package com.zzw.myGate.jpa.entity;
 
 import javax.persistence.*;
 import java.sql.Timestamp;

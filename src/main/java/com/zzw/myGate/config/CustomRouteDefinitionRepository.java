@@ -1,4 +1,4 @@
-package com.example.demo.config;
+package com.zzw.myGate.config;
 
 import org.springframework.cloud.gateway.route.InMemoryRouteDefinitionRepository;
 import org.springframework.cloud.gateway.route.RouteDefinition;
